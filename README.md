@@ -1,6 +1,12 @@
 # News App
 
-**News App** is a feature-rich application designed to provide users with a comprehensive display of news from various categories. Built using **Flutter** and managed with the **Bloc pattern**, this app offers a seamless and personalized user experience.
+**News App** is a feature-rich application designed to give users a comprehensive display of news from various categories. Built using **Flutter** and managed with the **Bloc pattern**, this app offers a seamless and personalized user experience.
+
+##Screenshots
+![image_original (8)](https://github.com/user-attachments/assets/b64f0845-fe42-4368-b6d1-4be34e672c8c)
+![image_original (9)](https://github.com/user-attachments/assets/be814b42-ceb4-4865-b321-9116664724a7)
+![image_original (10)](https://github.com/user-attachments/assets/35223463-999b-44c8-a5f0-b57f7c82d2b7)
+![image_original (11)](https://github.com/user-attachments/assets/ef0f7b5e-b651-4d28-91e4-d9ff4a87f484)
 
 ## Features
 
@@ -46,11 +52,7 @@ Follow these steps to set up and run the application locally:
    ```bash
    flutter run
 
-##Screenshots
-![image_original (8)](https://github.com/user-attachments/assets/b64f0845-fe42-4368-b6d1-4be34e672c8c)
-![image_original (9)](https://github.com/user-attachments/assets/be814b42-ceb4-4865-b321-9116664724a7)
-![image_original (10)](https://github.com/user-attachments/assets/35223463-999b-44c8-a5f0-b57f7c82d2b7)
-![image_original (11)](https://github.com/user-attachments/assets/ef0f7b5e-b651-4d28-91e4-d9ff4a87f484)
+
 
 
 
